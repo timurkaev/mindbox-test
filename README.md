@@ -3,9 +3,9 @@
 Требуемый функционал выполнен, чуток добавил дополнительный).
 Тесты написать не успел, делал на быструю руку, так как на данный момент работаю.
 
-Стэк приложения: TypeScript + React + Vite
+Стэк приложения: TypeScript + React + Vite + Tailwindcss + DaisyUI
 
 ### Запуск проекта?
 
-`npm install`
-`npm run dev`
+-   `npm install`
+-   `npm run dev`

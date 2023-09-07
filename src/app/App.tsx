@@ -3,6 +3,7 @@ import { useTheme } from "../features/theme";
 import { ToggleTheme } from "../widgets/ToggleTheme";
 import { TodoInput } from "../widgets/TodoInput";
 import { TodoList } from "../widgets/TodoList";
+import "./styles/index.css";
 
 export const App: FC = (): JSX.Element => {
     const { theme } = useTheme();
