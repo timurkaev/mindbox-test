@@ -9,3 +9,6 @@
 
 -   `npm install`
 -   `npm run dev`
+
+### Deploy
+[https://mindbox-test-ic0mla2hl-timurkaev.vercel.app/](https://mindbox-test-ic0mla2hl-timurkaev.vercel.app/)
