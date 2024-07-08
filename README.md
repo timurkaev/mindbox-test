@@ -9,6 +9,7 @@
 
 -   `npm install`
 -   `npm run dev`
+
 ИЛИ
 - `docker-compose up --build`
 
